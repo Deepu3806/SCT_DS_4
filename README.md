@@ -32,15 +32,8 @@ The dataset contains records of traffic accidents with the following key feature
 - seaborn
 - scikit-learn
 
-## ▶️ How to Run
-1. Clone the repository
-2. Install the required packages:  
-   `pip install pandas matplotlib seaborn scikit-learn`
-3. Run the analysis script (e.g., `traffic_accident_analysis.py`)
-4. View the generated plots and analysis output
-
 ## 👤 Author
 Deepika P
-Intern at SkillCraft Technology
+Data Science Intern  @SkillCraft Technology
 
 ---
